@@ -5,3 +5,4 @@ services:
       - ./src:/app
     ports:
       - "8000:8000"  # Host:Container
+    image: augustosant/face_recognition_oci:latest
