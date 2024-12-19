@@ -1,0 +1,4 @@
+deepface
+fastapi
+uvicorn
+numpy
